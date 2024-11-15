@@ -14,7 +14,7 @@ Welcome to my GitHub profile! Here's a bit about me:
 - **Databases**: MySQL
 
 ## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?mamme143=YourUsername&show_icons=true)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true)
 
 ## 🖥️ Projects
 
